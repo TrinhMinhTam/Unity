@@ -588,26 +588,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 138379537, guid: d00ea767c98db3047bf9cb051e2320cb, type: 3}
-      propertyPath: m_audioClip
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 138379538, guid: d00ea767c98db3047bf9cb051e2320cb, type: 3}
-      propertyPath: crash
-      value: 
-      objectReference: {fileID: 8300000, guid: 22697f15b9592f844a36c1989903011c, type: 3}
-    - target: {fileID: 138379538, guid: d00ea767c98db3047bf9cb051e2320cb, type: 3}
-      propertyPath: success
-      value: 
-      objectReference: {fileID: 8300000, guid: 4f0ae3937b766454ea4a52b9a05f69b7, type: 3}
-    - target: {fileID: 1753973267, guid: d00ea767c98db3047bf9cb051e2320cb, type: 3}
-      propertyPath: mainEngine
-      value: 
-      objectReference: {fileID: 8300000, guid: da45601f3a20a8240b1fbc26274f1f9a, type: 3}
-    - target: {fileID: 1688696248433285251, guid: d00ea767c98db3047bf9cb051e2320cb, type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
     - target: {fileID: 1688696248433285251, guid: d00ea767c98db3047bf9cb051e2320cb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
