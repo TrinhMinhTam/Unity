@@ -393,6 +393,7 @@ GameObject:
   - component: {fileID: 138379537}
   - component: {fileID: 138379538}
   - component: {fileID: 1753973267}
+  - component: {fileID: 5122485297079288527}
   m_Layer: 0
   m_Name: Ten lua
   m_TagString: Untagged
@@ -618,6 +619,18 @@ MonoBehaviour:
   mainEngineParticles: {fileID: 7409965227121033150}
   leftThrusterParticles: {fileID: 4450154956346466643}
   rightThrusterParticles: {fileID: 5492003512252001560}
+--- !u!114 &5122485297079288527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3737599492783297111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e307f79f057e215489e52a6712ad7b4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4571746850260103004
 GameObject:
   m_ObjectHideFlags: 0
