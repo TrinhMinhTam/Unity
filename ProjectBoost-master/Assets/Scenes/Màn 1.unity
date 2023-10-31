@@ -1049,6 +1049,7 @@ GameObject:
   - component: {fileID: 652120847}
   - component: {fileID: 652120846}
   - component: {fileID: 652120845}
+  - component: {fileID: 652120849}
   m_Layer: 0
   m_Name: Fuel
   m_TagString: Fuel
@@ -1142,6 +1143,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &652120849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652120843}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a96e11aea75b5f43a94980adc6b0462, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementVector: {x: 5, y: 5, z: 0}
+  period: 2
 --- !u!1001 &653566854
 PrefabInstance:
   m_ObjectHideFlags: 0
